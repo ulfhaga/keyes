@@ -278,6 +278,29 @@ int main(int argc, char *argv[])
                   digitalWrite(LED2, ON);
                   delay(1000); 
                   digitalWrite(LED2, OFF);
+                  delay(1000); 
+                  digitalWrite(LED2, ON);
+                  delay(1000); 
+                  digitalWrite(LED2, OFF);
+                  delay(1000); 
+                  digitalWrite(LED2, ON);
+                  delay(1000); 
+                  digitalWrite(LED2, OFF);
+                  delay(1000); 
+                  digitalWrite(LED2, ON);
+                  delay(1000); 
+                  digitalWrite(LED2, OFF);
+                  delay(1000); 
+                  digitalWrite(LED2, ON);
+                  delay(1000); 
+                  digitalWrite(LED2, OFF);
+                  delay(1000); 
+                  digitalWrite(LED2, ON);
+                  delay(1000); 
+                  digitalWrite(LED2, OFF);
+
+
+
                   pidMotion = runprogram2(fileNameMotion, NULL, NULL);
                   printf("Motion dectction run");
               }
